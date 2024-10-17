@@ -1,0 +1,47 @@
+# Política de Privacidad
+
+## Introducción
+
+Nuestro equipo de "Captura Empleado" se compromete a proteger tu privacidad. Esta Política de Privacidad explica cómo recogemos, usamos, divulgamos y protegemos tu información cuando utilizas nuestra aplicación móvil "Captura Empleado". Por favor, lee esta política cuidadosamente.
+
+## Recopilación de Información
+
+Podemos recopilar información sobre ti de diversas maneras. Esto incluye información que nos proporcionas directamente y aquella que se recoge automáticamente cuando usas la aplicación.
+
+### Información que tú nos proporcionas
+
+- **Datos personales:** Nombre, correo electrónico, etc.
+
+### Información recopilada automáticamente
+
+- **Datos del dispositivo:** Tipo de dispositivo, sistema operativo, etc.
+- **Datos de uso:** Tiempo de uso, funcionalidades utilizadas, etc.
+
+## Uso de la Información
+
+Utilizamos la información recopilada para:
+
+- Proveer, operar, y mantener nuestra aplicación.
+- Mejorar, personalizar, y expandir nuestra aplicación.
+- Entender y analizar cómo utilizas nuestra aplicación.
+
+## Divulgación de Información
+
+No compartimos tu información personal con terceros, excepto en las siguientes circunstancias:
+
+- Cuando sea requerido por ley.
+- Para proteger y defender nuestros derechos y propiedad.
+
+## Seguridad de la Información
+
+Implementamos medidas de seguridad para proteger tu información. Sin embargo, recuerda que ningún método de transmisión por Internet o método de almacenamiento electrónico es 100% seguro.
+
+## Cambios a Esta Política de Privacidad
+
+Podemos actualizar nuestra Política de Privacidad periódicamente. Te notificaremos de cualquier cambio publicando la nueva Política de Privacidad en esta página.
+
+## Contacto
+
+Si tienes alguna pregunta sobre esta Política de Privacidad, por favor contacta con nosotros a través de ivan.grijalva@heras.com.mx
+
+16-octubre-2024
